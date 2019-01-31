@@ -42,3 +42,7 @@ See you soon.
 You will be prompted to enter your login and password for both instances. Those pieces of information are not stored. 
 Tokens on the other hand will be written to `.secret` files in the same folder so that the script could be re run later without asking for login and password again.
 Delete those files if you want to prevent further access to your accounts afterwards.
+
+### Credits
+
+[@xuv@merveilles.town](https://merveilles.town/@xuv)
