@@ -101,7 +101,7 @@ def inviteNonFollowers( non_followers, mastodon ):
     for follower in non_followers:
         try:
             print('Inviting @' + follower['acct'])
-            # mastodon.status_post('Hello @' + follower['acct'] + message, visibility='direct')
+            mastodon.status_post('Hello @' + follower['acct'] + message, visibility='direct')
             profiles.update_one({
                 '_id': follower['_id']
             }, {
