@@ -39,7 +39,7 @@ See you soon.
 
 `python follow_me.py`
 
-You will be prompted to enter your login and password for both instances (unfortunately, this will not wolrk with accounts that have set up 2FA). Those pieces of information are not stored. 
+You will be prompted to enter your login and password for both instances (unfortunately, this will not work with accounts that have 2FA set up). Those pieces of information are not stored. 
 Tokens on the other hand will be written to `.secret` files in the same folder so that the script could be re run later without asking for login and password again.
 Delete those files if you want to prevent further access to your accounts afterwards.
 
