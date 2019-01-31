@@ -10,7 +10,7 @@ The script here connects to both instances to compare the list of followers and 
 
  - Have mongodb running on your local machine
  - Create a virtual python env.
- - Install packages with `pip install -r requirements`
+ - Install packages with `pip install -r requirements.txt`
  
 ### Configuration
 
