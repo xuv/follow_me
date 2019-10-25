@@ -1,8 +1,8 @@
 # follow_me
-_Send a direct message to your Mastodon followers to inform them of a move._
+**Send a direct message to your Mastodon followers to inform them of a move.**
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)  
-`This project is not relevant anymore since [Mastodon v3](https://blog.joinmastodon.org/2019/10/mastodon-3.0/) adds the ability to bring your followers with you when moving from one instance to another.`
+_This project is not relevant anymore since [Mastodon v3](https://blog.joinmastodon.org/2019/10/mastodon-3.0/) adds the ability to bring your followers with you when moving from one instance to another._
 
 If you just moved from one instance to another, you might want to inform your followers to follow you there. 
 Since just posting a public post informing of the change might not be seen by everyone, sending a direct private message to your followers will have a bigger impact.
